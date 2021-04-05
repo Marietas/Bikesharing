@@ -25,6 +25,11 @@ Figure 1: Peak hours - August
 
 ### Checkout Times for Users
 
+Fig. 2 represents the length of time for each Bike ride during the period of August 2019. Clearly, the majority riders use the service between 2 and 15 minutes.
+
+![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%202.PNG)
+
+
 
 
 
