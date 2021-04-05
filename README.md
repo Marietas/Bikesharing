@@ -41,6 +41,6 @@ The heatmaps on fig. 4 inform  that the main weekday rides are between 7AM to 9A
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%205.PNG)
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%206.PNG)
 
-
+### Top Stations
 
 
