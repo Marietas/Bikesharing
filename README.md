@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-The goal of this study is to come up with a plan that will provide data to investors to fund a bike-sharing service. The analysis was performed considering the New York Citi Bike data. The data was evaluated on Tableau to explore the viability of a bike-sharing business. The given dataset overall  provides biking period patterns and the relationships between gender and common biking times. 
+The goal of this study is to come up with a plan that will provide data to investors to fund a bike-sharing service. The analise was performed considering the New York Citi Bike data. The data was evaluated on Tableau to explore the viability of a bike-sharing business. The given dataset overall  provide biking period patterns and the relationships between gender and common biking times. 
 
 ## Resource
 
@@ -56,3 +56,9 @@ The graph on fig 9 shows which specific bike need to be repaired based on the se
 
 ## Summary
 
+Based on this analysis the data show that:
+
+- Male Users are the majority. 
+- On the weekends, New York City Bike service tend to be less busy compared to the weekdays. 
+- Bikes need to be postioned on the most famous areas.
+- The far majority of the rides were in the rush hours during the morning and the evening.
