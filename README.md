@@ -10,3 +10,7 @@ The goal of this study is to come up with a plan that will provide data to inves
 - Data Source: Citi Bike Data [August 2019](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
 
 ## Results
+
+### Tableau Analysis
+
+The public dashboard can be find [here](https://public.tableau.com/profile/maria.leon2057#!/vizhome/Book3_16175434729830/Story1?publish=yes)
