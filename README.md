@@ -54,5 +54,5 @@ The graph on fig 9 shows which specific bike need to be repaired based on the se
 
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%209.PNG)
 
-
+##Summary
 
