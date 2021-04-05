@@ -62,3 +62,4 @@ Based on this analysis the data show that:
 - On the weekends, New York City Bike service tend to be less busy compared to the weekdays. 
 - Bikes need to be postioned on the most famous areas.
 - The far majority of the rides were in the rush hours during the morning and the evening.
+- Maintenance should be done from 2AM to 5AM.
