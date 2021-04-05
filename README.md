@@ -17,7 +17,7 @@ The public dashboard can be find [here](https://public.tableau.com/profile/maria
 
 ### Peak Hours
 
-The fig. 1 shows that highest demanded hours are Between 5PM to 7PM. Also, the data suggest that the Bike's maintenance can be done from 2Am to 5AM.
+The fig. 1 shows that highest demanded hours are between 5PM to 7PM. Also, the data suggests that the Bike's maintenance can be done from 2Am to 5AM.
 
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%201.png)
 
@@ -43,14 +43,14 @@ The heatmaps on fig. 4, 5 and 6 show  that the main weekday rides are between 7A
 
 ### Top Stations
 
-Figs 7 and 8 show the top Starting and ending station locations.  Through this analysis we can see that the users start and edn their trip close to the most famous areas in NYC.
+Figs 7 and 8 show the top Starting and ending station locations.  Through this analysis we can see that the users start and end their trip close to the most famous areas in NYC.
 
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%207.PNG)
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%208.PNG)
 
 ### Repair Time
 
-The graph on fig 9 shows which specific bike need to be repaired based on the service time. 
+The graph on fig 9 shows which specific bike needs to be repaired based on the service time. 
 
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%209.PNG)
 
@@ -62,4 +62,3 @@ Based on this analysis the data show that:
 - On the weekends, New York City Bike service tend to be less busy compared to the weekdays. 
 - Bikes need to be postioned on the most famous areas.
 - The far majority of the rides were in the rush hours during the morning and the evening.
-- Maintenance should be done from 2AM to 5AM.
