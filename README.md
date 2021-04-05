@@ -35,7 +35,7 @@ From fig. 3 we can see the riders length vs gender. The data ilustrate that the 
 
 ### Trips by weekday and Gender
 
-The heatmaps on fig. 4 inform  that the main weekday rides are between 7AM to 9AM and from 5PM to 7PM.
+The heatmaps on fig. 4, 5 and 6 show  that the main weekday rides are between 7AM to 9AM and from 5PM to 7PM.
 
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%204.PNG) 
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%205.PNG)
@@ -43,4 +43,8 @@ The heatmaps on fig. 4 inform  that the main weekday rides are between 7AM to 9A
 
 ### Top Stations
 
+Figs 7 and 8 show the top Starting and ending station locations.  Through this analysis we can see that the users start and edn their trip close to the most famous areas in NYC.
+
+![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%207.PNG)
+![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%208.PNG)
 
