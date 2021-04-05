@@ -37,7 +37,7 @@ From fig. 3 we can see the riders length vs gender. The data ilustrate that the 
 
 The heatmaps on fig. 4 inform  that the main weekday rides are between 7AM to 9AM and from 5PM to 7PM.
 
-![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%204.PNG)
+![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%204.PNG) ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%206.PNG)
 
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%205.PNG)
 
