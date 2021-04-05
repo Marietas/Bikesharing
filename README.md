@@ -48,3 +48,11 @@ Figs 7 and 8 show the top Starting and ending station locations.  Through this a
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%207.PNG)
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%208.PNG)
 
+### Repair Time
+
+The graph on fig 9 shows which specific bike need to be repaired based on the service time. 
+
+![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%209.PNG)
+
+
+
