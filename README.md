@@ -29,11 +29,17 @@ Fig. 2 represents the length of time for each Bike ride during the period of Aug
 
 ### Checkout Times by Gender
 
-From fig. we can see the riders length vs gender. The data ilustrate that the most of the users are men.
+From fig. 3 we can see the riders length vs gender. The data ilustrate that the most of the users are men. Male users take this service approximately 3 times more than Female users.
 
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%203.PNG)
 
+### Trips by weekday and Gender
 
+The heatmaps on fig. 4 inform  that the main weekday rides are between 7AM to 9AM and from 5PM to 7PM.
+
+![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%204.PNG)
+
+![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%205.PNG)
 
 
 
