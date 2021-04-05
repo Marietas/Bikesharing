@@ -19,8 +19,6 @@ The public dashboard can be find [here](https://public.tableau.com/profile/maria
 
 The fig. 1 shows that highest demanded hours are Between 5PM to 7PM. Also, the data suggest that the Bike's maintenance can be done from 2Am to 5AM.
 
-Figure 1: Peak hours - August
-
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%201.png)
 
 ### Checkout Times for Users
@@ -28,6 +26,13 @@ Figure 1: Peak hours - August
 Fig. 2 represents the length of time for each Bike ride during the period of August 2019. Clearly, the majority riders use the service between 2 and 15 minutes.
 
 ![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%202.PNG)
+
+### Checkout Times by Gender
+
+From fig. we can see the riders length vs gender. The data ilustrate that the most of the users are men.
+
+![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%203.PNG)
+
 
 
 
