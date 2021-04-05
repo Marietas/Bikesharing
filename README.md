@@ -21,6 +21,10 @@ The fig. 1 shows that highest demanded hours are Between 5PM to 7PM. Also, the d
 
 Figure 1: Peak hours - August
 
-!()[https://github.com/Marietas/Bikesharing/blob/main/resources/fig%201.png]
+![](https://github.com/Marietas/Bikesharing/blob/main/resources/fig%201.png)
+
+### Checkout Times for Users
+
+
 
 
