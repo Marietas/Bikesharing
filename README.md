@@ -62,3 +62,9 @@ Based on this analysis the data show that:
 - On the weekends, New York City Bike service tend to be less busy compared to the weekdays. 
 - Bikes need to be postioned on the most famous areas.
 - The far majority of the rides were in the rush hours during the morning and the evening.
+
+According to the data set the following suggestions can be done for De Moines:
+
+- The company can create low fees on Sunday to make the service more attractive. 
+- Alhtough the men are the majority's users, the company can create incetives for the female users in order to increase the amount of users.
+- Maintenance costs need to be monitored and evaluated. The actual data set do not consider this aspect.
