@@ -8,4 +8,5 @@ The goal of this study is to come up with a plan that will provide data to inves
 
 - Software: Python Version 3.7; Jupyter Notebook and Tableau Public 2021
 - Data Source: Citi Bike Data [August 2019](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
--  
+
+## Results
